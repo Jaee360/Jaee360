@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hie there, I'm Jaee
+💫 Exploring Technology & Computer Science
+
+🔍 Interested in:
+💻 Programming & Software Development
+🤖 Artificial Intelligence
+💡 Problem Solving
+🚀 Hackathons & Real-World Projects
+
+🎯 Goal: To keep learning, build meaningful projects, and grow into a capable technology professional.
 
 <!--
 **Jaee360/Jaee360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
